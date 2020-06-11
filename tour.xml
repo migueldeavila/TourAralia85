@@ -238,8 +238,8 @@
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-169.859" atv="13.177" linkedscene="scene_5" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="167.703" atv="15.027" linkedscene="scene_4" />
-		<hotspot name="spot3" style="skin_hotspotstyle" ath="-158.175" atv="-0.465" linkedscene="scene_3" />
-		<hotspot name="spot4" style="skin_hotspotstyle" ath="163.791" atv="-3.420" linkedscene="scene_7" />
+		<hotspot name="spot3" style="skin_hotspotstyle" ath="-158.175" atv="-0.465" linkedscene="scene_3" url="right-hotspot.png" />
+		<hotspot name="spot4" style="skin_hotspotstyle" ath="163.791" atv="-3.420" linkedscene="scene_7" url="left-hotspot.png" />
 
 	</scene>
 
